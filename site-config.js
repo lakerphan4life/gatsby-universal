@@ -5,8 +5,8 @@ module.exports = {
   siteTitleShort: `Cross Commerce`,
   siteDescription: `Cross Commerce is a premier Shopify Agency, designing amazing eCommerce experiences`,
   siteUrl: `https://sleepy-goldberg-4be983.netlify.com/`,
-  themeColor: `#ffffff`,
-  backgroundColor: `#0358aa`,
+  themeColor: `#000000`,
+  backgroundColor: `#ffffff`,
   pathPrefix: null,
   logo: path.resolve(__dirname, 'src/images/icon.png'),
   // social: {

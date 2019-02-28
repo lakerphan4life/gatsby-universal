@@ -115,7 +115,7 @@ module.exports = {
   siteTitle: `Gatsby Universal`,
   siteTitleShort: `GatsbyU`,
   siteDescription: `An opinionated starter for Gatsby.`,
-  siteUrl: `https://gu.fabianschultz.com`,
+  siteUrl: `https://sleepy-goldberg-4be983.netlify.com/`,
   themeColor: `#000`,
   backgroundColor: `#fff`,
   pathPrefix: null,
