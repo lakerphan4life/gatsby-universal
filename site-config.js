@@ -10,7 +10,6 @@ module.exports = {
   pathPrefix: null,
   logo: path.resolve(__dirname, 'src/images/icon.png'),
   social: {
-    twitter: `crosscommerceio`,
-    fbAppId: `2283611871960934`,
+    twitter: `crosscommerceio`
   },
 };
