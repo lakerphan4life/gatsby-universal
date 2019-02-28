@@ -9,7 +9,7 @@ const Nav = () => (
         <Link to="/about">About</Link>
       </li>
       <li>
-        <a href="https://github.com/fabe/gatsby-universal">GitHub</a>
+        <a href="https://www.instagram.com/crosscommerce.io/?hl=en">Instagram</a>
       </li>
     </ul>
   </Container>
