@@ -15,7 +15,8 @@ const Index = ({ data }) => (
         {data.homeJson.content.childMarkdownRemark.rawMarkdownBody}
       </Title>
       <Modal>
-        <video style={{ width: `100%` }}
+        <video
+          style={{ width: '100%' }}
           src="https://media.giphy.com/media/qyNNKUuDi3yAo/giphy.mp4"
           playsInline
           loop
