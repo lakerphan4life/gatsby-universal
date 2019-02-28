@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://sleepy-goldberg-4be983.netlify.com/sitemap.xml
+Sitemap: https://crosscommerceio.netlify.com/sitemap.xml

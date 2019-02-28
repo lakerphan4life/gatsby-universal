@@ -115,7 +115,7 @@ module.exports = {
   siteTitle: `Gatsby Universal`,
   siteTitleShort: `GatsbyU`,
   siteDescription: `An opinionated starter for Gatsby.`,
-  siteUrl: `https://sleepy-goldberg-4be983.netlify.com/`,
+  siteUrl: `https://crosscommerceio.netlify.com/`,
   themeColor: `#000`,
   backgroundColor: `#fff`,
   pathPrefix: null,
@@ -161,4 +161,4 @@ module.exports = {
 
 ## Author
 
-* Fabian Schultz ([@fschultz_](https://twitter.com/fschultz_)) - [Stink Studios](https://stinkstudios.com)
+* Iman Hamidi ([@imanhamidi](https://imanhamidi.com)) - [Cross Commerce](https://crosscommerce.io)

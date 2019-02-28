@@ -13,8 +13,8 @@ module.exports = {
         name: `Cross Commerce`,
         short_name: `Cross Commerce`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#0358aa`,
+        background_color: `#0358aa`,
+        theme_color: `#24ffe3`,
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
         // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
         display: `standalone`,

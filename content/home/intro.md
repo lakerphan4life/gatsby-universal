@@ -1,1 +1,4 @@
-An opinionated starter for using Gatsby v2 with React Context, tag-agnostic styled-components, page transitions and scroll events with IntersectionObserver.
+## We are a team of Shopify geeks. We like to work in pajamas & design amazing eCommerce experiences
+
+
+Ready to launch🚀 your ShopifyStore?
